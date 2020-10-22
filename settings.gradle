@@ -1,0 +1,2 @@
+rootProject.name='dbcode'
+include ':app'
